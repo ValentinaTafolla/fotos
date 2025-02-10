@@ -1,0 +1,39 @@
+{
+  "title": "IMG_0382.JPG",
+  "description": "",
+  "imageViews": "19",
+  "creationTime": {
+    "timestamp": "1644362992",
+    "formatted": "8 feb 2022, 23:29:52 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1402848879",
+    "formatted": "15 jun 2014, 16:14:39 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Jessica Tafolla"
+  }],
+  "url": "https://lh3.googleusercontent.com/gDfoihwSNdIasqdWef4Y5kBx_a6QBUt71ZPdTHU6PUX4xdp40EY-ZuNwKo5N0wOa4KAuJdYrr_rPtrO0Z5BYIXF53LZA9D1w-V8kRhU",
+  "googlePhotosOrigin": {
+    "fromPartnerSharing": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1678041634",
+    "formatted": "5 mar 2023, 18:40:34 UTC"
+  }
+}

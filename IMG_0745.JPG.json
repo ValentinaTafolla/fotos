@@ -1,0 +1,39 @@
+{
+  "title": "IMG_0745.JPG",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1644362967",
+    "formatted": "8 feb 2022, 23:29:27 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1413648402",
+    "formatted": "18 oct 2014, 16:06:42 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Jessica Tafolla"
+  }],
+  "url": "https://lh3.googleusercontent.com/cHALc_Hs8uzzHiIFr8lMbHh7mgcjJa9X8F9JGBvNcwwiD3d5k-GjQrQXZYfCFE4zhXVpZGyG02KP4Bpcdae5bLMeo2rVC-S1DqlWiwE",
+  "googlePhotosOrigin": {
+    "fromPartnerSharing": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676534278",
+    "formatted": "16 feb 2023, 7:57:58 UTC"
+  }
+}

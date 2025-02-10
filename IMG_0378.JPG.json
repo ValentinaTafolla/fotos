@@ -1,0 +1,41 @@
+{
+  "title": "IMG_0378.JPG",
+  "description": "",
+  "imageViews": "16",
+  "creationTime": {
+    "timestamp": "1644362992",
+    "formatted": "8 feb 2022, 23:29:52 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1402848632",
+    "formatted": "15 jun 2014, 16:10:32 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Monchis"
+  }, {
+    "name": "Jessica Tafolla"
+  }],
+  "url": "https://lh3.googleusercontent.com/TmuqHFN6Pvvn2SAMzL56fj5Mm6QCe34_WC7UR9VHRd-K01T9b6YL_37cHGofWClxKAPMHYxZwwekricrUF7bfIaixzO1z8nKkNQAoX0",
+  "googlePhotosOrigin": {
+    "fromPartnerSharing": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676534278",
+    "formatted": "16 feb 2023, 7:57:58 UTC"
+  }
+}

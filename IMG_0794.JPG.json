@@ -1,0 +1,41 @@
+{
+  "title": "IMG_0794.JPG",
+  "description": "",
+  "imageViews": "18",
+  "creationTime": {
+    "timestamp": "1644362967",
+    "formatted": "8 feb 2022, 23:29:27 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1419208127",
+    "formatted": "22 dic 2014, 0:28:47 UTC"
+  },
+  "geoData": {
+    "latitude": 19.2845417,
+    "longitude": -99.14729439999999,
+    "altitude": 2259.2634408602153,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 19.2845417,
+    "longitude": -99.14729439999999,
+    "altitude": 2259.2634408602153,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Jimena T"
+  }, {
+    "name": "Jessica Tafolla"
+  }],
+  "url": "https://lh3.googleusercontent.com/prLyC0wj9Zw0ER8_DXrVEKAw8SE18bJt-e35nQWDPI28dNbOe9eZjBWPBNP-w88FouXoebFfLpn_0PjcajDGm-CcMo8CVsNsMgP1EH8",
+  "googlePhotosOrigin": {
+    "fromPartnerSharing": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676534278",
+    "formatted": "16 feb 2023, 7:57:58 UTC"
+  }
+}

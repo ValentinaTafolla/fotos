@@ -1,0 +1,39 @@
+{
+  "title": "IMG_0354.JPG",
+  "description": "",
+  "imageViews": "21",
+  "creationTime": {
+    "timestamp": "1644362992",
+    "formatted": "8 feb 2022, 23:29:52 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1401645390",
+    "formatted": "1 jun 2014, 17:56:30 UTC"
+  },
+  "geoData": {
+    "latitude": 19.2845083,
+    "longitude": -99.1475,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 19.2845083,
+    "longitude": -99.1475,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Monchis"
+  }],
+  "url": "https://lh3.googleusercontent.com/8jX4OxRdVriOPmoUaNxGbiPty8EMHULdglL0n7R_DtQuY4GtjvHXvUL0Rbpx9P0vgNRCjJVCZUEOli1WeegdX_PJ8XGGgeApleQycws",
+  "googlePhotosOrigin": {
+    "fromPartnerSharing": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1674063283",
+    "formatted": "18 ene 2023, 17:34:43 UTC"
+  }
+}

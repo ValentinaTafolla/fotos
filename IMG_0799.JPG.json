@@ -1,0 +1,39 @@
+{
+  "title": "IMG_0799.JPG",
+  "description": "",
+  "imageViews": "14",
+  "creationTime": {
+    "timestamp": "1644362967",
+    "formatted": "8 feb 2022, 23:29:27 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1419502297",
+    "formatted": "25 dic 2014, 10:11:37 UTC"
+  },
+  "geoData": {
+    "latitude": 19.284486100000002,
+    "longitude": -99.1472472,
+    "altitude": 2258.3030303030305,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 19.284486100000002,
+    "longitude": -99.1472472,
+    "altitude": 2258.3030303030305,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Valeria T"
+  }],
+  "url": "https://lh3.googleusercontent.com/CavbRSYqBXRseM0qvwbAo_L1rABSHnn4CtMnq9Yo4dB-jjTyJPid34JyiHKPtBl10TeWivlCXuuLy38B4HeMac7uQ49p1mesdnEC5rg",
+  "googlePhotosOrigin": {
+    "fromPartnerSharing": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1674063283",
+    "formatted": "18 ene 2023, 17:34:43 UTC"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "IMG_0270.JPG",
+  "description": "",
+  "imageViews": "23",
+  "creationTime": {
+    "timestamp": "1644362992",
+    "formatted": "8 feb 2022, 23:29:52 UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1395929105",
+    "formatted": "27 mar 2014, 14:05:05 UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Jessica Tafolla"
+  }],
+  "url": "https://lh3.googleusercontent.com/XlXJbplsKTK1mOC_wf1ac78MKaXI6nvDUvm8aimh4TyFiRzs4T1aGUB-UG-deb-ss29TpR3aX1hxYY5y_78NavFMzifcGu3xtqqahPw",
+  "googlePhotosOrigin": {
+    "fromPartnerSharing": {
+    }
+  },
+  "photoLastModifiedTime": {
+    "timestamp": "1676534278",
+    "formatted": "16 feb 2023, 7:57:58 UTC"
+  }
+}
